@@ -2,7 +2,7 @@
 
 
 
-### <h1 align = "center" > Hi 👋 I am Kaiyue 👩🏻 </h1>
+### <h1 align = "center" > Hi 👋 I am Ellie 👩🏻 </h1>
 
 
   
