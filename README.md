@@ -10,7 +10,7 @@
   
 :heart: Programming | :black_heart: Finance | :blue_heart: Reading
   
-I am a Final Year Computer Engineering Student at College of Engineering Chengannur. I love Machine Learning and trying to find more about Full Stack Web Development and Cyber Security. 
+I am a Final Year Financial Engineering Student at Univerisity of California, Los Angeles. I love Computer Science and Machine Learning, and trying to find more about Full Stack Web Development and Cyber Security. 
 
 ![](https://img.shields.io/badge/Python-orange) ![](https://img.shields.io/badge/Java-black) ![](https://img.shields.io/badge/Angular-orange)  ![](https://img.shields.io/badge/Javascript-black) ![](https://img.shields.io/badge/HTML-orange) ![](https://img.shields.io/badge/CSS-black) ![](https://img.shields.io/badge/NodeJs-orange) ![](https://img.shields.io/badge/MySQL-black) ![](https://img.shields.io/badge/SpringBoot-orange)
 
