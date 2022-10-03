@@ -8,7 +8,7 @@
   
 ### 👋 Welcome!  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
   
-:heart: Programming | :black_heart: Finance | :blue_heart: Reading
+:heart: Programming | :black_heart: Web Application | :blue_heart: Technolgy
   
 I am a Final Year Financial Engineering Student at Univerisity of California, Los Angeles. I love Computer Science and Machine Learning, and trying to find more about Full Stack Web Development and Cyber Security. 
 
